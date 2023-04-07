@@ -21,7 +21,7 @@ const Works = () => (
         Works
       </Heading>
 
-      <SimpleGrid columns={[1, 1, 2]} gap={6}>
+      <SimpleGrid columns={[2, 2, 4]} gap={6}>
         <Section>
           <WorkGridItem id="inkdrop" title="Inkdrop" thumbnail={thumbInkdrop}>
             A Markdown note-taking app with 100+ plugins, cross-platform and
