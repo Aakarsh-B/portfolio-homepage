@@ -37,7 +37,7 @@ const Home = () => (
         bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')}
         css={{ backdropFilter: 'blur(10px)' }}
       >
-        Hello, I&apos;m an indie app developer based in Japan!
+        turning pixels into smiles :)
       </Box>
 
       <Box display={{ md: 'flex' }}>
@@ -45,7 +45,7 @@ const Home = () => (
           <Heading as="h2" variant="page-title">
             Takuya Matsuyama
           </Heading>
-          <p>Digital Craftsman ( Artist / Developer / Designer )</p>
+          <p>Designer / Developer / Dreamer</p>
         </Box>
         <Box
           flexShrink={0}
